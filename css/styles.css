@@ -348,7 +348,15 @@ section {
 /*skills section styling start*/
 
 .skills .title::after {
-  content: "what i know";
+  content: "what I know";
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  font-size: 14px;
+  color: crimson;
+  padding: 5px;
+  background: #fff;
+  transform: translateX(-50%);
 }
 
 .skills .skills-content .column {
@@ -539,18 +547,19 @@ section {
   position: absolute;
   bottom: 0px;
   left: 50%;
-  width: 200px;
+  width: 170px;
   height: 3px;
   background: #111;
   transform: translateX(-50%);
 }
 
 .works .title::after {
-  content: "what i made";
+  content: "what I made";
   position: absolute;
+  margin-top: 30px;
   bottom: -15px;
   left: 50%;
-  font-size: 20px;
+  font-size: 14px;
   color: crimson;
   padding: 5px;
   background: #fff;
@@ -696,6 +705,12 @@ section {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+  margin-top: 30px;
+}
+
+.contact-title {
+  position: relative;
+  margin-top: 200px;
 }
 
 .contact .title::after {
@@ -1071,7 +1086,38 @@ footer span a:hover {
     width: 100%;
     margin-left: 30px;
   }
+
+@media (max-width: 350px) {
+  .max-width {
+    max-width: 100%;
+  }
+  .about .about-content .column {
+    width: 100%;
+  }
+  .about .about-content .left {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 40px;
+  }
   
+  .contact .contact-content{
+    width: 100%;
+    display: block;
+  }
 
+  .contact .contact-content .column {
+    width: 100%;
+  }
 
+  .contact .contact-content .column .icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contact .contact-content .column .left .row {
+    width: 100%;
+    margin-left: 30px;
+  }
 }
