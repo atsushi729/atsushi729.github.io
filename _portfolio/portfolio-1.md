@@ -1,6 +1,6 @@
 ---
 title: "foodie"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/foodie.png'>"
+excerpt: "foodie is online C2C marketplace <br/><img src='/images/foodie.png'>"
 collection: portfolio
 ---
 
