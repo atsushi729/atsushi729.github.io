@@ -35,11 +35,14 @@ network systems.
 <br>
 ## <font color="OrangeRed">Education</font>
 
-Bachelor degree Tourism and Hospitaliry, Tamagawa University, Tokyo, Japan
+Bachelor degree, Tourism and Hospitaliry, Tamagawa University,  Tokyo, Japan
 :   APRIL 2017 - MARCH 2021
 
-Exchange Program, Bachelor of Business, Deakin University, Melbourne, Australia
+Exchange Program, Bachelor of Business, Deakin University,  Melbourne, Australia
 :   JUNE 2018 - AUGUST 2019
+
+Bachelor degree, Computer Science, University of London,  London, United Kingdom
+:   APRIL 2022 - MARCH 2025
 
 <br>
 ## <font color="OrangeRed">Certificate</font>
